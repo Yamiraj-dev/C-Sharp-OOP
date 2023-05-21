@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleUI
+namespace FoundationInfo
 {
-    internal class Calculations
+    public static class Calculations
     {
+        public static double Add(double x, double y)
+        {
+            return x + y;
+        }
     }
 }

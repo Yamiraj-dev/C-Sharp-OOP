@@ -25,4 +25,4 @@ namespace ConsoleUI
 // Namespsaces allow us to separate things further by being in a different namespace. As we usually just separate data and methods and classes, namespaces can help us do this more.
 // In here the default Namespace is ConsoleUI and that can be changed in the project properties.
 // We do not typically rename Namespaces to organize things, instead we move these items to folders.
-// If we look into models, the namespac there is ConsoleUI.Models
+// If we look into models, the namespace there is ConsoleUI.Models
