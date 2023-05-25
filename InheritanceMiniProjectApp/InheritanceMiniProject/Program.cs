@@ -1,4 +1,6 @@
-﻿namespace InheritanceMiniProject
+﻿using InheritanceMiniProject.Interfaces;
+
+namespace InheritanceMiniProject
 {
     internal class Program
     {

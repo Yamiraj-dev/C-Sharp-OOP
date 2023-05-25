@@ -1,4 +1,6 @@
-﻿namespace InheritanceMiniProject.Models
+﻿using InheritanceMiniProject.Interfaces;
+
+namespace InheritanceMiniProject.Models
 {
     public class BookModel : InventoryItemModel, IPurchase
     {
