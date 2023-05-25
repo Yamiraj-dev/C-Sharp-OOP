@@ -1,4 +1,5 @@
 ﻿using InheritanceMiniProject.Interfaces;
+using InheritanceMiniProject.Models;
 
 namespace InheritanceMiniProject
 {
